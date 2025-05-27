@@ -1,6 +1,13 @@
-## Hi there 👋
+# Olá, me chamo Helder ! 
+## Bem vindo ao meu perfil GitHub 👋
+
+Estou começando agora no mundo da programação e estou no último semestre do curso de Tecnologia da Informação.
+
+🏫 No momento concentro meu foco no aprendizado de análise de dados, Quality Assurance e uso de agentes de IAs generativas.
 
 <!--
+## Hi there 👋
+
 **Helder-RV/Helder-RV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
